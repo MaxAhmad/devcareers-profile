@@ -142,7 +142,7 @@
 
         .text{
             margin-bottom: 50px;
-            color: #8c778c;
+            color: rgb(132, 111, 132);
         }
 
         .contact-links i{
@@ -188,7 +188,7 @@
         }
 
         .createAccountLink b{
-            color: #fab74f;
+            color: #996f23;
         }
 
         .none{

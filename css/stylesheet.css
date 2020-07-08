@@ -24,7 +24,10 @@
         body.dark .text{
             color: #fff;
         }
-
+       
+       .theme{
+              display: none
+       }
         #photoBg.dark{
             background-color: black;
         }

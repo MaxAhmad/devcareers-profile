@@ -28,6 +28,10 @@
         #photoBg.dark{
             background-color: black;
         }
+
+       label{
+              display: flex;
+       }
         /******************Background Image css********************/
 
 
